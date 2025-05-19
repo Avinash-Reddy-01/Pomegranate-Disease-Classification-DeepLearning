@@ -22,7 +22,7 @@ The dataset includes labeled images of:
 - **Anthracnose**
 - **Bacterial Blight**
 - **Cercospora Fruit Spot**
-- **Wilt**
+- **Alternaria Fruit Spot**
 
 ### 📊 Data Split
 The dataset is split using `split-folders`:
